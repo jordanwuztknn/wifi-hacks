@@ -1,8 +1,8 @@
-# wifi-hacks
+# Wifi Hacks
 hacks  for your school wifi, all here!
 
-WARNING: I'm Not responsible for the trouble you get into by doing these
-
+> [!WARNING]
+> I'm not responsible for any trouble this gets you into. Do this at your own risk.
 
 # 💻 First Method: Crosh >_
 
